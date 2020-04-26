@@ -115,6 +115,17 @@ Link to [THINGIVERSE.COM - 3D printable files](https://www.thingiverse.com/thing
     - Y = 26200 mm
     - Z = 6700 mm
 
+### Print Settings
+
+1. Rafts: Doesn't Matter
+2. Supports: No
+3. Resolution: 0.2 mm
+4. Infill: 12%
+5. Filament_brand: Whatever
+6. Filament_color: Whatever
+7. Filament_material: PLA
+
+
 ### Images
 
 ![assembly](Images/assembly.png)
